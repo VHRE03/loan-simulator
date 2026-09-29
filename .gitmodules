@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:VHRE03/loan-simulator-api.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:VHRE03/loan-simulator-front.git
